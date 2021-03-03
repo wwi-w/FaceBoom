@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/pyt
 
 import socket, sys, os, re, random, optparse, time
 if sys.version_info.major <= 2:import httplib
